@@ -33,4 +33,6 @@
 ## Tree VLSM
 
 ## Pembagian IP-VLSM
+  ![image](https://github.com/user-attachments/assets/f4b26dee-2b60-4741-a1e3-684ed7f7178a)
+
   
