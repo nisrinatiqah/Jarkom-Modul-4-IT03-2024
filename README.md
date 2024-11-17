@@ -23,11 +23,11 @@
   - [Pembagian IP-CIDR](#pembagian_ip_cidr)
   - [Konfigurasi GNS3](#konfigurasi_gns3)
  
-## Cisco Packet Tracer
-### Topologi CPT
+# Cisco Packet Tracer
+## Topologi CPT
   <img width="976" alt="topologi CPT MODUL 4" src="https://github.com/user-attachments/assets/9f460c85-b0db-4237-8002-501c7e6c62cb">
 
-### Rute CPT
+## Rute CPT
   https://docs.google.com/spreadsheets/d/1mTRZrkasedMP7LDwilHhliAe9xZxYaP1UW7B9fuT8tI/edit?usp=sharing
   
   ![image](https://github.com/user-attachments/assets/d3ef7279-064e-4bc9-bd74-8ae171816012)
@@ -64,5 +64,74 @@
   
   ![image](https://github.com/user-attachments/assets/f4b26dee-2b60-4741-a1e3-684ed7f7178a)
   
-### Konfigurasi CPT
-  
+## Konfigurasi CPT
+  - A12
+
+    GEN:0 
+    ```
+    enable
+    configure terminal
+    interface fa0/1
+    ip address 192.245.0.1 255.255.248.0
+    no shutdown
+    ```
+    
+    GEN:1 
+    ```
+    enable
+    configure terminal
+    interface fa0/0
+    ip address 192.245.0.2 255.255.248.0
+    no shutdown
+    ```
+
+    MiComet
+    ```
+    Interface fa0
+    IP Address: 192.245.0.3
+    Subnet Mask: 255.255.248.0
+    Gateway: 192.245.0.1
+    ```
+
+    Soro_Robo_AZK
+    ```
+    Interface fa0
+    IP Address: 192.245.0.4
+    Subnet Mask: 255.255.248.0
+    Gateway: 192.245.0.1
+    ```
+
+  - A18
+
+    AREA15
+    ```
+    enable
+    configure terminal
+    interface fa0/1
+    ip address 192.245.8.1 255.255.252.0
+    no shutdown
+    ```
+
+    Moona
+    ```
+    Interface fa0
+    IP Address: 192.245.8.2
+    Subnet Mask: 255.255.252.0
+    Gateway: 192.245.8.1
+    ```
+
+    Risu
+    ```
+    Interface fa0
+    IP Address: 192.245.8.3
+    Subnet Mask: 255.255.252.0
+    Gateway: 192.245.8.1
+    ```
+
+    lofi
+    ```
+    Interface fa0
+    IP Address: 192.245.8.4
+    Subnet Mask: 255.255.252.0
+    Gateway: 192.245.8.1
+    ```
