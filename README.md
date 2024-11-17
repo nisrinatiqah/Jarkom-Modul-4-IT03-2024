@@ -5,8 +5,8 @@
 # Anggota Kelompok
 | Nama  | NRP  |
 |----------|----------|
-| Nisrina Atiqah Dwiputri Ridzki| 5027231075 |
-| Nicholas Arya Krisnugroho Rerangin| 5027231058 |
+| Nisrina Atiqah Dwiputri Ridzki | 5027231075 |
+| Nicholas Arya Krisnugroho Rerangin | 5027231058 |
 
 # Daftar Isi
 - [Cisco Packet Tracer](#cisco_packet_tracer)
@@ -28,11 +28,41 @@
   <img width="976" alt="topologi CPT MODUL 4" src="https://github.com/user-attachments/assets/9f460c85-b0db-4237-8002-501c7e6c62cb">
 
 ### Rute CPT
+  https://docs.google.com/spreadsheets/d/1mTRZrkasedMP7LDwilHhliAe9xZxYaP1UW7B9fuT8tI/edit?usp=sharing
+  
   ![image](https://github.com/user-attachments/assets/d3ef7279-064e-4bc9-bd74-8ae171816012)
 
 ## Tree VLSM
+  ![TREE VLSM drawio](https://github.com/user-attachments/assets/7ad742d9-cf3d-4203-9978-a4904c3adac2)
 
 ## Pembagian IP-VLSM
+  Pengurutan Kebutuhan
+  | Netmask  | Subnet  |
+  |--|--|
+  |/21 | A12|
+  |/22 | A18 |
+  |/23 | A22 |
+  |/23 | A13 |
+  |/23 | A5 |
+  |/25 | A15 |
+  |/26 | A20 | 
+  |/26 | A8 |
+  | /27 | A3 |
+  | /28 | A11 |
+  |/29 | A6 |
+  |/29 | A7 |
+  |/29 | A10 |
+  /30 | A1
+  /30 | A2
+  /30 | A4
+  /30 | A9
+  /30 | A14
+  /30 | A16
+  /30 | A17
+  /30 | A19
+  |/30 | A21 |
+  
   ![image](https://github.com/user-attachments/assets/f4b26dee-2b60-4741-a1e3-684ed7f7178a)
-
+  
+### Konfigurasi CPT
   
