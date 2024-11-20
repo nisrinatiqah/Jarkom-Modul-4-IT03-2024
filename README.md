@@ -135,3 +135,10 @@
     Subnet Mask: 255.255.252.0
     Gateway: 192.245.8.1
     ```
+
+## GNS
+
+![Menyerah1](https://github.com/user-attachments/assets/b6677b58-86de-4a58-84d9-b65aa0e7eb16)
+
+![Screenshot (76)](https://github.com/user-attachments/assets/5043ec22-6428-4883-a0fe-ce129a8aa022)
+
