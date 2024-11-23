@@ -137,8 +137,19 @@
     ```
 
 ## GNS
-
 ![Menyerah1](https://github.com/user-attachments/assets/b6677b58-86de-4a58-84d9-b65aa0e7eb16)
 
+## Rute
 ![Screenshot (76)](https://github.com/user-attachments/assets/5043ec22-6428-4883-a0fe-ce129a8aa022)
 
+## Pembagian IP
+![Screenshot (78)](https://github.com/user-attachments/assets/f053e278-7645-40bb-8dd8-b9366397717b)
+
+## Penggabungan CIDR
+![Screenshot (79)](https://github.com/user-attachments/assets/4f0de76a-a049-4813-83c1-66cb10972c5c)
+
+![Screenshot (80)](https://github.com/user-attachments/assets/949f2f0b-02d8-469c-903f-f9ebe58b71a1)
+
+![Screenshot (81)](https://github.com/user-attachments/assets/3add2510-d85f-4bef-bc5b-4e4ed2b15b1b)
+
+![Screenshot (82)](https://github.com/user-attachments/assets/33262fa6-9f42-440c-b6c2-9fc126ce1ced)
